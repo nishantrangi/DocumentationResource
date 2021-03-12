@@ -3,24 +3,23 @@
 <table>
 <tr>
 <td>
-Descrption 
-</td>
-
-</tr>
-<tr>
-<td>
-  **Description of the project**
+Description
 </td>
 </tr>
 <tr>
 <td>
-**Technologies used**
+Description of the project
 </td>
-
+</tr>
+	
+<tr>
+<td>
+Technologies used
+</td>
 </tr>
 <tr>
 <td>
-  List the technologies used in the project
+List the technologies used in the project
 </td>
 </tr>
 <tr>
@@ -37,7 +36,7 @@ Class Name | What methods did what in that class
 <table>
 <tr>
 <td>
-	###Reference number and title
+Reference number and title
 </td>
 </tr>
 <tr>
