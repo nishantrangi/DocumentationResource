@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-	**Descrption**
+	** Descrption **
 </td>
 
 </tr>
@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td>
-	**Technologies used**
+	** Technologies used **
 </td>
 
 </tr>
