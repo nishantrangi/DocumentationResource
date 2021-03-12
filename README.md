@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-	### Descrption 
+	###Descrption 
 </td>
 
 </tr>
@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td>
-	### Technologies used 
+	###Technologies used 
 </td>
 
 </tr>
@@ -37,7 +37,7 @@ Class Name | What methods did what in that class
 <table>
 <tr>
 <td>
-	### Reference number and title
+	###Reference number and title
 </td>
 </tr>
 <tr>
