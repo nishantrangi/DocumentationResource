@@ -9,12 +9,12 @@ Descrption
 </tr>
 <tr>
 <td>
-  Description of the project 
+  **Description of the project**
 </td>
 </tr>
 <tr>
 <td>
-	###Technologies used 
+**Technologies used**
 </td>
 
 </tr>
@@ -44,7 +44,7 @@ Class Name | What methods did what in that class
 <td>
   <pre 
   lang="swift">
-        Insert the language above and code here
+Insert the language above and code here
    </pre>
 </td>
 </tr>
